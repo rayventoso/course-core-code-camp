@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{A5EBC609-68B7-47B5-AA9C-F9B50DC1CD34}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CoreCodeCamp" expanded="True">
+            <Node name="CoreCodeCamp" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="SdkDependencies" expanded="True">
+                  <Node name="Microsoft.NETCore.App" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CoreCodeCamp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
